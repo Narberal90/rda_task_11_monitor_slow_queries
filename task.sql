@@ -3,308 +3,308 @@ create database ShopDB;
 use ShopDB;
 
 -- Create tables 
-CREATE TABLE Products1 (
+CREATE TABLE Products (
 	ID INT AUTO_INCREMENT,
 	Name VARCHAR(50),
 	PRIMARY KEY (ID)
 ) ENGINE = InnoDB;
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct1');
+	('AwesomeProduct1');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct2');
+	('AwesomeProduct2');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct3');
+	('AwesomeProduct3');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct4');
+	('AwesomeProduct4');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct5');
+	('AwesomeProduct5');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct6');
+	('AwesomeProduct6');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct7');
+	('AwesomeProduct7');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct8');
+	('AwesomeProduct8');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct9');
+	('AwesomeProduct9');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct10');
+	('AwesomeProduct10');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct11');
+	('AwesomeProduct11');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct12');
+	('AwesomeProduct12');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct13');
+	('AwesomeProduct13');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct14');
+	('AwesomeProduct14');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct15');
+	('AwesomeProduct15');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct16');
+	('AwesomeProduct16');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct17');
+	('AwesomeProduct17');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct18');
+	('AwesomeProduct18');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct19');
+	('AwesomeProduct19');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct20');
+	('AwesomeProduct20');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct21');
+	('AwesomeProduct21');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct22');
+	('AwesomeProduct22');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct23');
+	('AwesomeProduct23');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct24');
+	('AwesomeProduct24');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct25');
+	('AwesomeProduct25');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct26');
+	('AwesomeProduct26');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct27');
+	('AwesomeProduct27');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct28');
+	('AwesomeProduct28');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct29');
+	('AwesomeProduct29');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct30');
+	('AwesomeProduct30');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct31');
+	('AwesomeProduct31');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct32');
+	('AwesomeProduct32');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct33');
+	('AwesomeProduct33');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct34');
+	('AwesomeProduct34');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct35');
+	('AwesomeProduct35');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct36');
+	('AwesomeProduct36');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct37');
+	('AwesomeProduct37');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct38');
+	('AwesomeProduct38');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct39');
+	('AwesomeProduct39');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct40');
+	('AwesomeProduct40');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct41');
+	('AwesomeProduct41');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct42');
+	('AwesomeProduct42');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct43');
+	('AwesomeProduct43');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct44');
+	('AwesomeProduct44');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct45');
+	('AwesomeProduct45');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct46');
+	('AwesomeProduct46');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct47');
+	('AwesomeProduct47');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct48');
+	('AwesomeProduct48');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct49');
+	('AwesomeProduct49');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct50');
+	('AwesomeProduct50');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct51');
+	('AwesomeProduct51');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct52');
+	('AwesomeProduct52');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct53');
+	('AwesomeProduct53');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct54');
+	('AwesomeProduct54');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct55');
+	('AwesomeProduct55');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct56');
+	('AwesomeProduct56');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct57');
+	('AwesomeProduct57');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct58');
+	('AwesomeProduct58');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct59');
+	('AwesomeProduct59');
 
 INSERT INTO
-	Products1 (Name)
+	Products (Name)
 VALUES
-	('AwersomeProduct60');
+	('AwesomeProduct60');
